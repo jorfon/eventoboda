@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 BEGIN:VEVENT
 SUMMARY:Boda Nerea & Jorge
-DTSTART:20251025T130000Z
-DTEND:20251025T235959Z
+DTSTART:20251025T110000Z
+DTEND:20251025T215959Z
 DESCRIPTION:Bienvenidos a la boda de Nerea y Jorge, ¡donde lo pasaremos genial!
-LOCATION:Barrio Concejuelo,48191 Galdames, Bizkaia, España
+LOCATION:Torre Loizaga Barrio Concejuelo, 48191 Galdames, Bizkaia, España
 END:VEVENT
 END:VCALENDAR
